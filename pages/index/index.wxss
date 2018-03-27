@@ -1,0 +1,19 @@
+.section{  
+   display: flex;
+    position: absolute;  
+    top: 28rpx;  
+    right: 44rpx;  
+    width: 32rpx;  
+    height: 32rpx;  
+    flex-direction: row;
+    
+}  
+.section__title{
+  background-color: greenyellow;
+}
+.flex-wrp{
+  display: flex;
+}
+.flex-wrp bc_green{
+  background-color: red;
+}
